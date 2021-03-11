@@ -16,7 +16,7 @@ Birisini kayıt ettiğiniz zaman otomatik olarak db'ye isim ve yaşı pushlar te
 npm install
 node thrasher.js
 ```
-## Embed kullanımı
+## Embed kullanımı 
 ```sh
     thraembed.setDescription()
     thraembed.setAuthor()
@@ -32,6 +32,16 @@ node thrasher.js
     thraembed.setTimestamp
     thraembed.setFooter()
 ```
+## Ayarlar.json
+```sh
+  "prefix": ".", - Prefixiniz
+  "token": "", - Botun tokeni
+  "boyRoles": [""], - Erkek rolleri
+  "girlRoles": [""], - Kız rolleri
+  "owner": [""], - Kurucu
+  "authorized": [""] - Teyit Sorumlusu
+```
+
 ## Güncelleme geçmişi
 
 * 0.0.1
