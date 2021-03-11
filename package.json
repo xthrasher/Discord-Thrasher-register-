@@ -1,0 +1,27 @@
+{
+    "name": "thrashernew-reg",
+    "version": "0.0.1",
+    "description": "Thrasher new register bot",
+    "main": "thrasher.js",
+    "scripts": {
+        "test": "node thrasher.js"
+    },
+    "author": "Thrasher",
+    "license": "Apache License 2.0",
+    "keywords": [
+        "register",
+        "bot",
+        "discordbot",
+        "discord",
+        "thrasher"
+    ],
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "discord.js-commando": "^0.12.0",
+        "moment": "^2.29.1",
+        "moment-duration-format": "^2.3.2",
+        "moment-timezone": "^0.5.32",
+        "ms": "^2.1.3",
+        "quick.db": "^7.1.3"
+    }
+}
