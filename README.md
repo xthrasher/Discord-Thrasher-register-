@@ -1,8 +1,6 @@
 # Thrasher Reg Bot
 > Discord kayıt botu.
 
-![NPM Version][npm-image]
-
 Kayıt olan kişi çıkıp tekrar girdiğinde aynı isimle tekrar kayıt ediyor.
 
 ## Nasıl kullanılır?
@@ -26,6 +24,8 @@ node thrasher.js
 * 0.0.1
     * Paylaşıldı
 
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+## Koymadığım şeyler
+* Girince eski rollerini otomatik verme.
+    * Kendiniz geliştirebilirsiniz arkadaşlar kimse size balık tutmak zorunda değil.
+* Teyit bilgi
+    * Belki ilerde eklerim
