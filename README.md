@@ -16,7 +16,22 @@ Birisini kayıt ettiğiniz zaman otomatik olarak db'ye isim ve yaşı pushlar te
 npm install
 node thrasher.js
 ```
-
+## Embed kullanımı
+```sh
+    thraembed.setDescription()
+    thraembed.setAuthor()
+    thraembed.setColor()
+    thraembed.setTitle()
+    thraembed.setURL()
+    thraembed.setThumbnail()
+    thraembed.addField()
+    thraembed.addFields(
+        { name: 'Thraser', value: 'was here' }
+    )
+    thraembed.setImage()
+    thraembed.setTimestamp
+    thraembed.setFooter()
+```
 ## Güncelleme geçmişi
 
 * 0.0.1
